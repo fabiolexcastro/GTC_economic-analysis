@@ -1,0 +1,347 @@
+"Crop","GCM","Impact","Has"
+"Cocoa","ACCESS-CM2","cope",1358561.73132239
+"Cocoa","ACCESS-CM2","adjust",489112.821994185
+"Cocoa","ACCESS-CM2","transform",8313.11191418767
+"Cocoa","ACCESS-ESM1-5","cope",1118921.74116163
+"Cocoa","ACCESS-ESM1-5","adjust",688954.722101629
+"Cocoa","ACCESS-ESM1-5","transform",433.455653972924
+"Cocoa","AWI-CM-1-1-MR","cope",837152.457132934
+"Cocoa","AWI-CM-1-1-MR","adjust",904553.746464036
+"Cocoa","BCC-CSM2-MR","cope",831129.665205948
+"Cocoa","BCC-CSM2-MR","adjust",850247.365425766
+"Cocoa","BCC-CSM2-MR","transform",111.39814555645
+"Cocoa","CanESM5-CanOE","cope",1253045.23317403
+"Cocoa","CanESM5-CanOE","adjust",526679.590198651
+"Cocoa","CanESM5-CanOE","transform",5839.68611422926
+"Cocoa","CanESM5","cope",1253045.23317403
+"Cocoa","CanESM5","adjust",526679.590198651
+"Cocoa","CanESM5","transform",5839.68611422926
+"Cocoa","CMCC-ESM2","cope",1312683.63676705
+"Cocoa","CMCC-ESM2","adjust",416500.835608453
+"Cocoa","CMCC-ESM2","transform",9003.60269485414
+"Cocoa","CNRM-CM6-1-HR","cope",1284384.1073827
+"Cocoa","CNRM-CM6-1-HR","adjust",442312.910393476
+"Cocoa","CNRM-CM6-1-HR","transform",4302.8465468511
+"Cocoa","CNRM-CM6-1","cope",1284384.1073827
+"Cocoa","CNRM-CM6-1","adjust",442312.910393476
+"Cocoa","CNRM-CM6-1","transform",4302.8465468511
+"Cocoa","CNRM-ESM2-1","cope",1148145.41887578
+"Cocoa","CNRM-ESM2-1","adjust",786777.361309558
+"Cocoa","CNRM-ESM2-1","transform",4173.33177065849
+"Cocoa","EC-Earth3-Veg-LR","cope",1070541.65495224
+"Cocoa","EC-Earth3-Veg-LR","adjust",779032.945661753
+"Cocoa","EC-Earth3-Veg-LR","transform",741.057210169733
+"Cocoa","EC-Earth3-Veg","cope",1070541.65495224
+"Cocoa","EC-Earth3-Veg","adjust",779032.945661753
+"Cocoa","EC-Earth3-Veg","transform",741.057210169733
+"Cocoa","GFDL-ESM4","cope",975969.581081718
+"Cocoa","GFDL-ESM4","adjust",817709.669341117
+"Cocoa","GFDL-ESM4","transform",605.830722607672
+"Cocoa","GISS-E2-1-G","cope",1420613.01266375
+"Cocoa","GISS-E2-1-G","adjust",347727.625324786
+"Cocoa","GISS-E2-1-G","transform",1158.57220069319
+"Cocoa","GISS-E2-1-H","cope",1421788.43539974
+"Cocoa","GISS-E2-1-H","adjust",273383.043459594
+"Cocoa","GISS-E2-1-H","transform",3327.91907075793
+"Cocoa","INM-CM4-8","cope",1407268.55510449
+"Cocoa","INM-CM4-8","adjust",277399.864293143
+"Cocoa","INM-CM4-8","transform",73.3776531815529
+"Cocoa","INM-CM5-0","cope",1436721.6734321
+"Cocoa","INM-CM5-0","adjust",263117.527685598
+"Cocoa","INM-CM5-0","transform",34.806140422821
+"Cocoa","IPSL-CM6A-LR","cope",1384976.3539993
+"Cocoa","IPSL-CM6A-LR","adjust",431049.06557858
+"Cocoa","IPSL-CM6A-LR","transform",882.202443920076
+"Cocoa","MIROC-ES2L","cope",1334245.64756647
+"Cocoa","MIROC-ES2L","adjust",463272.287096471
+"Cocoa","MIROC-ES2L","transform",2237.94477818161
+"Cocoa","MIROC6","cope",1224082.79987854
+"Cocoa","MIROC6","adjust",479537.929466039
+"Cocoa","MIROC6","transform",287.132453195751
+"Cocoa","MPI-ESM1-2-HR","cope",1046226.44059504
+"Cocoa","MPI-ESM1-2-HR","adjust",769018.424150586
+"Cocoa","MPI-ESM1-2-HR","transform",3.035236120224
+"Cocoa","MPI-ESM1-2-LR","cope",879279.187772818
+"Cocoa","MPI-ESM1-2-LR","adjust",859211.287413538
+"Cocoa","MRI-ESM2-0","cope",1436826.15266678
+"Cocoa","MRI-ESM2-0","adjust",243353.244544446
+"Cocoa","MRI-ESM2-0","transform",1662.91306076199
+"Cocoa","UKESM1-0-LL","cope",1360814.47049266
+"Cocoa","UKESM1-0-LL","adjust",427001.240658611
+"Cocoa","UKESM1-0-LL","transform",8511.12996838242
+"Cashew","ACCESS-CM2","cope",105334.64706232
+"Cashew","ACCESS-CM2","adjust",60435.8360896334
+"Cashew","ACCESS-ESM1-5","cope",108150.533624429
+"Cashew","ACCESS-ESM1-5","adjust",59132.0438529961
+"Cashew","AWI-CM-1-1-MR","cope",120382.012033243
+"Cashew","AWI-CM-1-1-MR","adjust",47003.8302746043
+"Cashew","BCC-CSM2-MR","cope",115513.096185822
+"Cashew","BCC-CSM2-MR","adjust",50864.9107293002
+"Cashew","CanESM5-CanOE","cope",108639.242175333
+"Cashew","CanESM5-CanOE","adjust",58557.5826544911
+"Cashew","CanESM5","cope",108639.242175333
+"Cashew","CanESM5","adjust",58557.5826544911
+"Cashew","CMCC-ESM2","cope",107457.170098074
+"Cashew","CMCC-ESM2","adjust",61383.048654478
+"Cashew","CNRM-CM6-1-HR","cope",112488.526353102
+"Cashew","CNRM-CM6-1-HR","adjust",53092.0407566242
+"Cashew","CNRM-CM6-1","cope",112488.526353102
+"Cashew","CNRM-CM6-1","adjust",53092.0407566242
+"Cashew","CNRM-ESM2-1","cope",114698.772480953
+"Cashew","CNRM-ESM2-1","adjust",51107.3835774474
+"Cashew","EC-Earth3-Veg-LR","cope",84228.6828200631
+"Cashew","EC-Earth3-Veg-LR","adjust",84075.0348231792
+"Cashew","EC-Earth3-Veg","cope",84228.6828200631
+"Cashew","EC-Earth3-Veg","adjust",84075.0348231792
+"Cashew","GFDL-ESM4","cope",104865.587534089
+"Cashew","GFDL-ESM4","adjust",64660.3146829382
+"Cashew","GISS-E2-1-G","cope",114618.46851166
+"Cashew","GISS-E2-1-G","adjust",50818.138554167
+"Cashew","GISS-E2-1-H","cope",110390.59594119
+"Cashew","GISS-E2-1-H","adjust",53556.6831282303
+"Cashew","INM-CM4-8","cope",103635.624794144
+"Cashew","INM-CM4-8","adjust",61978.9847242087
+"Cashew","INM-CM5-0","cope",100394.218284104
+"Cashew","INM-CM5-0","adjust",63854.2651210986
+"Cashew","IPSL-CM6A-LR","cope",110707.755565815
+"Cashew","IPSL-CM6A-LR","adjust",55006.7513492815
+"Cashew","MIROC-ES2L","cope",108261.14526822
+"Cashew","MIROC-ES2L","adjust",56676.263623815
+"Cashew","MIROC6","cope",121055.260632191
+"Cashew","MIROC6","adjust",46297.3657063358
+"Cashew","MPI-ESM1-2-HR","cope",121780.488799851
+"Cashew","MPI-ESM1-2-HR","adjust",48238.9905330501
+"Cashew","MPI-ESM1-2-LR","cope",104385.908533607
+"Cashew","MPI-ESM1-2-LR","adjust",64409.0218907632
+"Cashew","MRI-ESM2-0","cope",110054.726189155
+"Cashew","MRI-ESM2-0","adjust",54057.1000784747
+"Cashew","UKESM1-0-LL","cope",108743.407418899
+"Cashew","UKESM1-0-LL","adjust",55136.5968899839
+"Coconut","ACCESS-CM2","cope",70650.904192741
+"Coconut","ACCESS-CM2","adjust",9116.66711274907
+"Coconut","ACCESS-ESM1-5","cope",53741.4180457024
+"Coconut","ACCESS-ESM1-5","adjust",9554.85242945608
+"Coconut","ACCESS-ESM1-5","transform",0
+"Coconut","AWI-CM-1-1-MR","cope",72089.609721248
+"Coconut","AWI-CM-1-1-MR","adjust",13649.4572066534
+"Coconut","BCC-CSM2-MR","cope",41128.3237116383
+"Coconut","BCC-CSM2-MR","adjust",16781.9778804313
+"Coconut","BCC-CSM2-MR","transform",0
+"Coconut","CanESM5-CanOE","cope",73809.6963753691
+"Coconut","CanESM5-CanOE","adjust",20670.3623174233
+"Coconut","CanESM5","cope",73809.6963753691
+"Coconut","CanESM5","adjust",20670.3623174233
+"Coconut","CMCC-ESM2","cope",71390.5726891439
+"Coconut","CMCC-ESM2","adjust",12027.6934793787
+"Coconut","CMCC-ESM2","transform",0
+"Coconut","CNRM-CM6-1-HR","cope",75986.1141291158
+"Coconut","CNRM-CM6-1-HR","adjust",11825.2416607346
+"Coconut","CNRM-CM6-1-HR","transform",0
+"Coconut","CNRM-CM6-1","cope",75986.1141291158
+"Coconut","CNRM-CM6-1","adjust",11825.2416607346
+"Coconut","CNRM-CM6-1","transform",0
+"Coconut","CNRM-ESM2-1","cope",72463.6605135566
+"Coconut","CNRM-ESM2-1","adjust",18019.3964731349
+"Coconut","CNRM-ESM2-1","transform",0
+"Coconut","EC-Earth3-Veg-LR","cope",56857.1722627394
+"Coconut","EC-Earth3-Veg-LR","adjust",12428.1392362751
+"Coconut","EC-Earth3-Veg","cope",56857.1722627394
+"Coconut","EC-Earth3-Veg","adjust",12428.1392362751
+"Coconut","GFDL-ESM4","cope",73444.6539852927
+"Coconut","GFDL-ESM4","adjust",11719.4288264206
+"Coconut","GISS-E2-1-G","cope",73057.1959383842
+"Coconut","GISS-E2-1-G","adjust",25165.7610120978
+"Coconut","GISS-E2-1-G","transform",0
+"Coconut","GISS-E2-1-H","cope",72519.8408504399
+"Coconut","GISS-E2-1-H","adjust",19229.9417017568
+"Coconut","GISS-E2-1-H","transform",0
+"Coconut","INM-CM4-8","cope",55851.7394135455
+"Coconut","INM-CM4-8","adjust",11088.2286633002
+"Coconut","INM-CM4-8","transform",0
+"Coconut","INM-CM5-0","cope",73426.5376924546
+"Coconut","INM-CM5-0","adjust",9600.60709536076
+"Coconut","INM-CM5-0","transform",0
+"Coconut","IPSL-CM6A-LR","cope",73777.9862980917
+"Coconut","IPSL-CM6A-LR","adjust",10739.287546712
+"Coconut","MIROC-ES2L","cope",74292.7839771518
+"Coconut","MIROC-ES2L","adjust",13267.5901140319
+"Coconut","MIROC-ES2L","transform",0
+"Coconut","MIROC6","cope",76574.8073324487
+"Coconut","MIROC6","adjust",11928.3992600804
+"Coconut","MPI-ESM1-2-HR","cope",75250.3539974391
+"Coconut","MPI-ESM1-2-HR","adjust",14806.414656423
+"Coconut","MPI-ESM1-2-LR","cope",68721.0148467971
+"Coconut","MPI-ESM1-2-LR","adjust",15350.6364749344
+"Coconut","MRI-ESM2-0","cope",72073.2812586846
+"Coconut","MRI-ESM2-0","adjust",18307.2305723978
+"Coconut","UKESM1-0-LL","cope",72869.4301811466
+"Coconut","UKESM1-0-LL","adjust",18889.2258118289
+"Oil palm","ACCESS-CM2","cope",313353.17034629
+"Oil palm","ACCESS-CM2","adjust",74289.9488400919
+"Oil palm","ACCESS-ESM1-5","cope",334184.151127366
+"Oil palm","ACCESS-ESM1-5","adjust",44111.5520890085
+"Oil palm","AWI-CM-1-1-MR","cope",354571.147941601
+"Oil palm","AWI-CM-1-1-MR","adjust",21758.6765475972
+"Oil palm","BCC-CSM2-MR","cope",349533.699664789
+"Oil palm","BCC-CSM2-MR","adjust",22265.3637729408
+"Oil palm","CanESM5-CanOE","cope",315910.206344105
+"Oil palm","CanESM5-CanOE","adjust",67397.095834868
+"Oil palm","CanESM5","cope",315910.206344105
+"Oil palm","CanESM5","adjust",67397.095834868
+"Oil palm","CMCC-ESM2","cope",350616.416723656
+"Oil palm","CMCC-ESM2","adjust",33098.5743852938
+"Oil palm","CNRM-CM6-1-HR","cope",334775.97350111
+"Oil palm","CNRM-CM6-1-HR","adjust",47754.9942746162
+"Oil palm","CNRM-CM6-1","cope",334775.97350111
+"Oil palm","CNRM-CM6-1","adjust",47754.9942746162
+"Oil palm","CNRM-ESM2-1","cope",343613.548113029
+"Oil palm","CNRM-ESM2-1","adjust",37619.7897552513
+"Oil palm","EC-Earth3-Veg-LR","cope",359523.92600851
+"Oil palm","EC-Earth3-Veg-LR","adjust",14449.59432586
+"Oil palm","EC-Earth3-Veg","cope",359523.92600851
+"Oil palm","EC-Earth3-Veg","adjust",14449.59432586
+"Oil palm","GFDL-ESM4","cope",308566.979617134
+"Oil palm","GFDL-ESM4","adjust",76389.2505888762
+"Oil palm","GISS-E2-1-G","cope",319445.9304996
+"Oil palm","GISS-E2-1-G","adjust",62258.244649996
+"Oil palm","GISS-E2-1-H","cope",314867.290450899
+"Oil palm","GISS-E2-1-H","adjust",69281.1738100732
+"Oil palm","INM-CM4-8","cope",357999.861778226
+"Oil palm","INM-CM4-8","adjust",16595.0435670698
+"Oil palm","INM-CM5-0","cope",357677.417248359
+"Oil palm","INM-CM5-0","adjust",22960.5022829548
+"Oil palm","IPSL-CM6A-LR","cope",322235.755544644
+"Oil palm","IPSL-CM6A-LR","adjust",61702.0053962432
+"Oil palm","MIROC-ES2L","cope",326045.907596178
+"Oil palm","MIROC-ES2L","adjust",59099.7161358111
+"Oil palm","MIROC6","cope",347674.67955156
+"Oil palm","MIROC6","adjust",33555.8950846866
+"Oil palm","MPI-ESM1-2-HR","cope",356985.26861769
+"Oil palm","MPI-ESM1-2-HR","adjust",16847.8346792189
+"Oil palm","MPI-ESM1-2-LR","cope",351466.861230244
+"Oil palm","MPI-ESM1-2-LR","adjust",19242.8734247526
+"Oil palm","MRI-ESM2-0","cope",325806.899684114
+"Oil palm","MRI-ESM2-0","adjust",57735.0990019981
+"Oil palm","UKESM1-0-LL","cope",298069.166493344
+"Oil palm","UKESM1-0-LL","adjust",87271.0304501569
+"Rubber","ACCESS-CM2","cope",35750.0409284234
+"Rubber","ACCESS-CM2","adjust",30923.6339025553
+"Rubber","ACCESS-ESM1-5","cope",42098.2717306223
+"Rubber","ACCESS-ESM1-5","adjust",26004.0800212268
+"Rubber","AWI-CM-1-1-MR","cope",46088.0983375311
+"Rubber","AWI-CM-1-1-MR","adjust",20270.717030568
+"Rubber","BCC-CSM2-MR","cope",44405.1805294249
+"Rubber","BCC-CSM2-MR","adjust",23815.0902846418
+"Rubber","CanESM5-CanOE","cope",35939.0270732325
+"Rubber","CanESM5-CanOE","adjust",29806.3736288436
+"Rubber","CanESM5","cope",35939.0270732325
+"Rubber","CanESM5","adjust",29806.3736288436
+"Rubber","CMCC-ESM2","cope",43635.3141417652
+"Rubber","CMCC-ESM2","adjust",24192.3366257679
+"Rubber","CNRM-CM6-1-HR","cope",42711.6863982063
+"Rubber","CNRM-CM6-1-HR","adjust",23991.7278447822
+"Rubber","CNRM-CM6-1","cope",42711.6863982063
+"Rubber","CNRM-CM6-1","adjust",23991.7278447822
+"Rubber","CNRM-ESM2-1","cope",44426.5301815812
+"Rubber","CNRM-ESM2-1","adjust",22974.7541555949
+"Rubber","EC-Earth3-Veg-LR","cope",34801.2739789709
+"Rubber","EC-Earth3-Veg-LR","adjust",31072.9709289502
+"Rubber","EC-Earth3-Veg","cope",34801.2739789709
+"Rubber","EC-Earth3-Veg","adjust",31072.9709289502
+"Rubber","GFDL-ESM4","cope",47071.789643323
+"Rubber","GFDL-ESM4","adjust",22907.8636867739
+"Rubber","GISS-E2-1-G","cope",43545.771119548
+"Rubber","GISS-E2-1-G","adjust",24891.7192273475
+"Rubber","GISS-E2-1-H","cope",48457.1204744186
+"Rubber","GISS-E2-1-H","adjust",19967.6470495239
+"Rubber","INM-CM4-8","cope",37390.02804894
+"Rubber","INM-CM4-8","adjust",30439.932489479
+"Rubber","INM-CM5-0","cope",35162.5709466338
+"Rubber","INM-CM5-0","adjust",31326.673597021
+"Rubber","IPSL-CM6A-LR","cope",46946.172718104
+"Rubber","IPSL-CM6A-LR","adjust",20749.8394617829
+"Rubber","MIROC-ES2L","cope",37292.4117191993
+"Rubber","MIROC-ES2L","adjust",29914.3550080601
+"Rubber","MIROC6","cope",43957.4483406637
+"Rubber","MIROC6","adjust",24142.4977966808
+"Rubber","MPI-ESM1-2-HR","cope",45902.0447231848
+"Rubber","MPI-ESM1-2-HR","adjust",20235.2818404566
+"Rubber","MPI-ESM1-2-LR","cope",42697.3704289123
+"Rubber","MPI-ESM1-2-LR","adjust",22471.8529839348
+"Rubber","MPI-ESM1-2-LR","transform",10.7938198298216
+"Rubber","MRI-ESM2-0","cope",44564.5943700112
+"Rubber","MRI-ESM2-0","adjust",24665.9591861684
+"Rubber","UKESM1-0-LL","cope",35467.3551691603
+"Rubber","UKESM1-0-LL","adjust",29939.6290131267
+"Mango","ACCESS-CM2","cope",1098.01496036071
+"Mango","ACCESS-CM2","adjust",3332.70330832247
+"Mango","ACCESS-CM2","transform",809.217787878588
+"Mango","ACCESS-ESM1-5","cope",1748.25440358743
+"Mango","ACCESS-ESM1-5","adjust",2651.31392511073
+"Mango","ACCESS-ESM1-5","transform",1114.75156513788
+"Mango","AWI-CM-1-1-MR","cope",3352.8992119031
+"Mango","AWI-CM-1-1-MR","adjust",1882.92075002287
+"Mango","AWI-CM-1-1-MR","transform",153.616751698777
+"Mango","BCC-CSM2-MR","cope",2214.79066645354
+"Mango","BCC-CSM2-MR","adjust",2608.95480625797
+"Mango","BCC-CSM2-MR","transform",656.870196281001
+"Mango","CanESM5-CanOE","cope",2235.02347636689
+"Mango","CanESM5-CanOE","adjust",3014.66226737667
+"Mango","CanESM5-CanOE","transform",703.475221255794
+"Mango","CanESM5","cope",2235.02347636689
+"Mango","CanESM5","adjust",3014.66226737667
+"Mango","CanESM5","transform",703.475221255794
+"Mango","CMCC-ESM2","cope",3509.50461339392
+"Mango","CMCC-ESM2","adjust",1346.01755948458
+"Mango","CMCC-ESM2","transform",645.911340979859
+"Mango","CNRM-CM6-1-HR","cope",2290.48042818997
+"Mango","CNRM-CM6-1-HR","adjust",2798.98959037382
+"Mango","CNRM-CM6-1-HR","transform",791.659155687317
+"Mango","CNRM-CM6-1","cope",2290.48042818997
+"Mango","CNRM-CM6-1","adjust",2798.98959037382
+"Mango","CNRM-CM6-1","transform",791.659155687317
+"Mango","CNRM-ESM2-1","cope",3937.01686061267
+"Mango","CNRM-ESM2-1","adjust",1442.02999750245
+"Mango","CNRM-ESM2-1","transform",371.231951924041
+"Mango","EC-Earth3-Veg-LR","cope",657.928659405559
+"Mango","EC-Earth3-Veg-LR","adjust",3478.98054422904
+"Mango","EC-Earth3-Veg-LR","transform",857.381682194769
+"Mango","EC-Earth3-Veg","cope",657.928659405559
+"Mango","EC-Earth3-Veg","adjust",3478.98054422904
+"Mango","EC-Earth3-Veg","transform",857.381682194769
+"Mango","GFDL-ESM4","cope",1098.11578354705
+"Mango","GFDL-ESM4","adjust",3012.16129562724
+"Mango","GFDL-ESM4","transform",1130.07807044871
+"Mango","GISS-E2-1-G","cope",2592.08096800838
+"Mango","GISS-E2-1-G","adjust",2309.80079776887
+"Mango","GISS-E2-1-G","transform",1113.91503160633
+"Mango","GISS-E2-1-H","cope",2410.65085584391
+"Mango","GISS-E2-1-H","adjust",2181.33509873319
+"Mango","GISS-E2-1-H","transform",1179.89906888269
+"Mango","INM-CM4-8","cope",2028.81553993002
+"Mango","INM-CM4-8","adjust",2490.93796973769
+"Mango","INM-CM4-8","transform",993.430758899078
+"Mango","INM-CM5-0","cope",2407.76970367972
+"Mango","INM-CM5-0","adjust",2251.3039614642
+"Mango","INM-CM5-0","transform",1084.77862936072
+"Mango","IPSL-CM6A-LR","cope",2796.02378021274
+"Mango","IPSL-CM6A-LR","adjust",2468.83420665283
+"Mango","IPSL-CM6A-LR","transform",662.400122536346
+"Mango","MIROC-ES2L","cope",2582.52314453665
+"Mango","MIROC-ES2L","adjust",2553.57821061183
+"Mango","MIROC-ES2L","transform",826.948267290369
+"Mango","MIROC6","cope",3235.19161363877
+"Mango","MIROC6","adjust",1614.21183795575
+"Mango","MIROC6","transform",775.302361080423
+"Mango","MPI-ESM1-2-HR","cope",4116.61296119727
+"Mango","MPI-ESM1-2-HR","adjust",828.381148998626
+"Mango","MPI-ESM1-2-HR","transform",253.917210074142
+"Mango","MPI-ESM1-2-LR","cope",3840.41177492402
+"Mango","MPI-ESM1-2-LR","adjust",1403.01300214697
+"Mango","MPI-ESM1-2-LR","transform",323.32434448041
+"Mango","MRI-ESM2-0","cope",2790.21091876272
+"Mango","MRI-ESM2-0","adjust",1960.84431306738
+"Mango","MRI-ESM2-0","transform",1086.68111841939
+"Mango","UKESM1-0-LL","cope",2114.33082597796
+"Mango","UKESM1-0-LL","adjust",2793.46043974999
+"Mango","UKESM1-0-LL","transform",752.790209582075
